@@ -2,7 +2,7 @@
 
 A unified guide for writing consistent, maintainable, and scalable application code.
 
-📄 [**View the Frontend Standards PDF**](https://kanishkbhadauria11.github.io/engineering-guidelines/)
+📄 [**View the Frontend/UX Standards**](https://kanishkbhadauria11.github.io/engineering-guidelines/)
 
 ## Topics Covered
 - Code Quality & Safety
